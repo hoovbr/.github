@@ -152,6 +152,10 @@ branches:
       enforce_admins: true
       # Prevent merge commits from being pushed to matching branches
       required_linear_history: false
+      # Permits force pushes to the protected branch by anyone with write access to the repository
+      allow_force_pushes: false
+      # Allows deletion of the protected branch by anyone with write access to the repository.
+      allow_deletions: false
       # Required. Restrict who can push to this branch. Team and user restrictions are only available for organization-owned repositories. Set to null to disable.
       restrictions:
         apps: []
