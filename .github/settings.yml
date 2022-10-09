@@ -98,6 +98,14 @@ labels:
     color: '#C5DEF5'
     description: null
 
+  - name: good first issue
+    color: '#7057FF'
+    description: null
+
+  - name: documentation
+    color: '#0075CA'
+    description: null
+
 # Note: `permission` is only valid on organization-owned repositories.
 # The permission to grant the collaborator. Can be one of:
 # * `pull` - can pull, but not push to or administer this repository.
