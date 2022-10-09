@@ -29,7 +29,7 @@ repository:
   has_wiki: false
 
   # Either `true` to enable downloads for this repository, `false` to disable them.
-  has_downloads: false
+  # has_downloads: false
 
   # Updates the default branch for this repository.
   default_branch: main
@@ -55,7 +55,7 @@ repository:
 
   # Either `true` to enable vulnerability alerts, or `false` to disable
   # vulnerability alerts.
-  enable_vulnerability_alerts: true
+  # enable_vulnerability_alerts: true
 
 # Labels: define labels for Issues and Pull Requests
 labels:
