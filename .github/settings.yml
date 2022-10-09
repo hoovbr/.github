@@ -61,32 +61,41 @@ repository:
 labels:
   # Pull Request Status
   - name: pending code review
-    color: '#0075ca'
+    color: '#0075CA'
+    description: null
 
   - name: pending qa
-    color: '#7057ff'
+    color: '#7057FF'
+    description: null
 
   - name: changes requested
     color: '#FBCA04'
+    description: null
 
   - name: approved
     color: '#17F352'
+    description: null
 
   - name: blocked
     color: '#B60205'
+    description: null
 
   - name: deferred
     color: '#C5DEF5'
+    description: null
 
   # Issue Types
   - name: feature
     color: '#17F352'
+    description: null
 
   - name: bug
-    color: '#d73a4a'
+    color: '#D73A4A'
+    description: null
 
   - name: refactor
     color: '#C5DEF5'
+    description: null
 
 # Note: `permission` is only valid on organization-owned repositories.
 # The permission to grant the collaborator. Can be one of:
