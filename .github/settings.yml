@@ -51,7 +51,7 @@ repository:
 
   # Either `true` to enable automated security fixes, or `false` to disable
   # automated security fixes.
-  enable_automated_security_fixes: true
+  # enable_automated_security_fixes: true # Broken, see https://github.com/repository-settings/app/issues/625#issuecomment-1252623857
 
   # Either `true` to enable vulnerability alerts, or `false` to disable
   # vulnerability alerts.
