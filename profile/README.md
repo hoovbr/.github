@@ -10,7 +10,7 @@ We welcome collaboration and contributions from the community to enhance our pro
 
 ## Fun Facts
 
-- 🍔 Fun Fact #1: There is a burger joint that has only 2 stores in Brazil. They are a few blocks away from our co-founders' respective places. Can you guess which burger joint is it?
+- 🍔 Fun Fact #1: There is a burger joint that has only 2 stores in Brazil. They are a few blocks away from our co-founders' respective places. Can you guess which burger joint it is?
 - ☕️ Fun Fact #2: None of our developers drink coffee or soda. Can you believe it?
 - 🎮 Fun Fact #3: We couldn't think of a 3rd fun fact to write here. We must be really fun, right?
 
